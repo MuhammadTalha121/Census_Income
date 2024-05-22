@@ -27,10 +27,8 @@ The dataset used in this project is the Adult Income dataset. It contains the fo
 
 The project contains the following files:
 
-- `adult.train`: Training dataset
+- `adult.data`: Training dataset
 - `adult.test`: Test dataset
-- `train_model.py`: Script to train the model
-- `test_model.py`: Script to test the model
 - `requirements.txt`: List of dependencies
 - `README.md`: Project documentation
 
@@ -39,6 +37,6 @@ The project contains the following files:
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/adult-income-classification.git
-cd adult-income-classification
+git clone https://github.com/MuhammadTalha121/census_income.git
+cd census_income
 pip install -r requirements.txt
